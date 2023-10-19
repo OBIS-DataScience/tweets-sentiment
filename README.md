@@ -7,7 +7,7 @@ This Python script collects and analyzes tweets related to the "#iPhoneX" hashta
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Data Collection](#data-collection)
-- [Sentiment Analysis](#sentiment-analysis)
+- [Sentiment Analysis Approach](#sentiment-analysis-approach)
 - [Data Visualization](#data-visualization)
 - [Results](#results)
 - [Contributing](#contributing)
