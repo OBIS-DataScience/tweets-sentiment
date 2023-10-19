@@ -51,25 +51,6 @@ The sentiment analysis approach used in this code includes the following steps:
 
 4. **Data Export**: The dataset with sentiment labels is exported to a CSV file for further analysis and visualization.
 
-## Sentiment Analysis Approaches
-
-Various approaches can be used for sentiment analysis, depending on the complexity of the task and specific requirements:
-
-- **Lexicon-Based Sentiment Analysis**: Uses sentiment lexicons to classify text based on positive and negative words.
-
-- **Machine Learning-Based Sentiment Analysis**: Employs machine learning models to classify sentiments based on text features.
-
-- **Rule-Based Sentiment Analysis**: Uses predefined rules for sentiment classification.
-
-- **Aspect-Based Sentiment Analysis**: Analyzes sentiments towards specific aspects or entities in text.
-
-- **Hybrid Approaches**: Combines multiple approaches for improved accuracy.
-
-- **Deep Learning for Sentiment Analysis**: Utilizes deep learning models like RNNs and LSTMs to capture text dependencies.
-
-- **Emotion Analysis**: Identifies specific emotions in text, going beyond basic sentiment.
-
-The choice of approach depends on factors such as the complexity of the task, data availability, and desired accuracy.
 
 
 ## Data Visualization
